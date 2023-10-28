@@ -7,6 +7,11 @@ For more information on this file, see
 https://docs.djangoproject.com/en/3.2/howto/deployment/asgi/
 """
 
+# monti
+# kaushikshashank1998@gmail.com
+# 123
+
+
 import os
 
 from django.core.asgi import get_asgi_application
